@@ -1,0 +1,50 @@
+body {
+    background-color: antiquewhite;
+    margin: o;
+}
+.hi {
+    color:orange;
+    font-family: 'Yomogi', cursive;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+h1 {
+    font-size: 40px;
+    font-family: 'Yomogi', cursive;
+    font-weight: 800;
+}
+.name {
+    color: orange;
+}
+.para {
+    background-color: aqua;
+    font-size: 20px;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    border-left-color: blue;
+    border-right-color: blue;
+    border-radius: 30px;
+    padding: 20px 10px;
+}
+#button {
+    text-align: center;
+}
+.hire-me {
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+section {
+    display: flex;
+}
+.photo {
+    width: 600px;
+    height: auto;
+    padding-bottom: o;
+}
